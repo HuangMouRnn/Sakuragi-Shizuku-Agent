@@ -227,7 +227,7 @@ mimo100t/
 
 ```bash
 # Install
-cd mimo100t
+cd /
 pip install -e .
 
 # Set API key
